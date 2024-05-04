@@ -6,8 +6,8 @@
     <version>2.36.0</version>
   </parent>
   <groupId>com.ge.eventvision</groupId>
-  <artifactId>eventvision-financials-server</artifactId>
+  <artifactId>my-app-server</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>eventvision-financials-server</name>
+  <name>my-app-server</name>
   <description>Eventvision - Finances</description>
 </project>
